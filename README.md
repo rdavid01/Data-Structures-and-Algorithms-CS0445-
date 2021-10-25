@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-CS0445-
-Projects for Professor Ramirez's CS0445 course
+Projects for Professor Ramirez's CS0445 course (Fall 2020)
 
 1. Assignment 1: Circular Array
 2. Assignment 2: Implement String Builder with Linked List
