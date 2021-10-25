@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms-CS0445-
 Projects for Professor Ramirez's CS0445 course (Fall 2020)
 
-1. Assignment 1: Circular Array
+1. **Assignment 1: Circular Array**
     - a1score.docx -> details for grade received
     - Assig1A.java, Assig1B.java -> test files, provided by instructor
     - Assignment 1 Information sheet.txt -> instructions provided by instructor
