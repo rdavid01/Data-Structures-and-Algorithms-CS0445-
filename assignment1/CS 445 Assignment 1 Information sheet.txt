@@ -1,0 +1,50 @@
+CS 0445 Assignment Information Sheet
+
+ 
+
+Name:  David Reidenbaugh   Assignment #:  1
+
+Lecture Day and Time: Tuesday/Thursday 9:25-10:40
+
+Recitation Day and Time: Wednesday 10:00-10:50
+
+Program Due Date:  September 15, 2020
+
+Handed in Date: September 15, 2020 
+
+
+Source code (.java) file name(s):
+
+DequeInterface.java, Indexable.java, IndexableAddRemove.java,
+
+MyDeque.java, IndexDeque.java, IndexAddRemoveDeque.java,
+
+Assig1A.java, Assig1B.java
+
+
+
+Input / output file name(s) (if applicable): 
+
+None
+
+
+Does your program compile without error?: yes
+
+
+If not, what is/are the error(s)?:
+
+No errors during compile.
+
+
+Does your program run without error?: yes
+
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+No runtime errors.
+
+
+Additional comments (including problems and extra credit):
+
+None
+ 
