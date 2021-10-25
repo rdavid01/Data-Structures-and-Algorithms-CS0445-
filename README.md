@@ -25,3 +25,10 @@ Projects for Professor Ramirez's CS0445 course (Fall 2020)
     - MyStringBuilder2.java -> written by me
     
 4. Assignment 4: Comparisson of Runtime Algorithms
+    - assig4.pdf -> instructions for assignment 4
+    - a4score.docx -> grade for assignment
+    - Assig4A.java -> test file written by me
+    - assig4RunTimes.xlsx -> spreadsheet comparing runtimes of different sorting algorithms for different sized tests
+    - ExtraCreditRunTimes.xlsx -> runtime comparisons for shellshort with different gap sequences (in addition to the algorithms already tested)
+    - SortAlgorithms.java -> filled in by me
+    - Assig4ExtraCredit.java -> written by me (test shellsort with different gap sequences)
