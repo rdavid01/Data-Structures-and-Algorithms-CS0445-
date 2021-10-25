@@ -17,5 +17,11 @@ Projects for Professor Ramirez's CS0445 course (Fall 2020)
     - MyStringBuilder.java -> written by me
     
 3. Assignment 3: Recursively Implement String Builder with Linked List (also implemented simplified version of regular expression match)
-
+    - a3score.docx -> grade for assignment
+    - Assig3.java, Assig3B.java, Assig3C.java -> test files provided by instructor
+    - Assig3ExtraCreditTest.java -> test file written by me (For extra credit, I worte an additional method called allIndexOf() in my MyStringBuilder2.java file.  This
+    - tests the functionality of the allIndexOf() method, including some special cases.)
+    - assig3.pdf, A3RegHelp.pdf -> instructions provided by instructor
+    - MyStringBuilder2.java -> written by me
+    
 4. Assignment 4: Comparisson of Runtime Algorithms
