@@ -18,3 +18,4 @@ Projects for Professor Ramirez's CS0445 course (Fall 2020)
     - ExtraCreditRunTimes.xlsx -> runtime comparisons for shellshort with different gap sequences (in addition to the algorithms already tested)
     - SortAlgorithms.java -> filled in by me
     - Assig4ExtraCredit.java -> written by me (test shellsort with different gap sequences)
+    - Assig4A.java -> tests runtimes of algorithms
