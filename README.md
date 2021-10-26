@@ -2,9 +2,6 @@
 Projects for Professor Ramirez's CS0445 course (Fall 2020)
 
 1. **Assignment 1: Circular Array**
-    - a1score.docx -> details for grade received
-    - Assig1A.java, Assig1B.java -> test files, provided by instructor
-    - Assignment 1 Information sheet.txt -> instructions provided by instructor
     - DequeInterface.java, Indexable.java, IndexableAddRemove.java -> interfaces provided by instructor
     - MyDeque.java -> written by me (implements DequeInterface.java)
     - IndexDeque.java -> written by me (implements Indexable.java)
